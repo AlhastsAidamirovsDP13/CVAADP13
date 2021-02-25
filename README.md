@@ -21,3 +21,8 @@ import time
 1. Celies
 2. Ēd
 3. Gulēt
+
+## Saraksts(ar un bez atzīmēm)
+[X] Celies
+[ ] Ēd
+[ ] Gulēt
