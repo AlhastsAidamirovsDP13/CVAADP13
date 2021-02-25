@@ -23,6 +23,6 @@ import time
 3. Gulēt
 
 ## Saraksts(ar un bez atzīmēm)
-[X] Celies
-[ ] Ēd
-[ ] Gulēt
+- [X] Celies
+- [ ] Ēd
+- [ ] Gulēt
