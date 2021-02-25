@@ -13,3 +13,4 @@ import random
 from threading import Thread
 import time
 ```
+## Bilde
