@@ -14,4 +14,4 @@ from threading import Thread
 import time
 ```
 ## Bilde
-!(andromeda-galaxy-royalty-free-image-1585682435.jpg)
+![alt text](andromeda-galaxy-royalty-free-image-1585682435.jpg)
