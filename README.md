@@ -26,3 +26,8 @@ import time
 - [X] Celies
 - [ ] Ēd
 - [ ] Gulēt
+
+## Tabula
+|Vards        |Uzvards      |Datums       |
+|-------------|-------------|-------------|
+|Alhasts      |Aidamirovs   |25.02.2021   |
