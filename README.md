@@ -34,3 +34,6 @@ import time
 
 ## Horizontāla līnija
 ---
+
+## Emoji
+😃😃😃😃😃😃
