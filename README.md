@@ -31,3 +31,6 @@ import time
 |Vards        |Uzvards      |Datums       |
 |-------------|-------------|-------------|
 |Alhasts      |Aidamirovs   |25.02.2021   |
+
+## Horizontāla līnija
+---
